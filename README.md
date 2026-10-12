@@ -1,2 +1,3 @@
 # US-Accidents-dataset-about-7.7-million-records-Crash-Severity-Prediction-from-weather-conditions
-Deep learning on the US Accidents dataset (about 7.7 million records). Models predict crash severity from weather conditions (temperature, humidity, pressure, visibility, wind, precipitation). It covers a Perceptron and ANN for 4-level severity using label encoding and one-hot encoding. All models reach about 74–80% accuracy.
+Deep learning on the US Accidents dataset (about 7.7 million records). Models predict crash severity from weather conditions (temperature, humidity, pressure, visibility, wind, precipitation). It covers a Perceptron and ANN for 4-level severity using label encoding and one-hot encoding.
+All models reach about 74–80% accuracy, largely by predicting the majority class.
